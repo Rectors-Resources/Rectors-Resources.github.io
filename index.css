@@ -1,0 +1,26 @@
+#name {
+    font-weight: bold;
+    color: blue;
+    font-size: 200px;
+    text-align: center;
+    background-image: url(https://i.gifer.com/origin/da/dae1a2354b495f8bab67b3bd82e4bf63_w200.gif);
+    padding-bottom: 80px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+#rector {
+    color:aqua;
+}
+#nav {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(28, 163, 46);
+}
+#home,#education,#about,#social {
+    display: inline;
+    padding: 12px 15px 12px;
+    border-color: blueviolet;
+    border-style: double;
+    
+}
